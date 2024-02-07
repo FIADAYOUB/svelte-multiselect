@@ -1,8 +1,8 @@
 <script>
-	import './styles.css';
+	import '../app.css';
 </script>
 
-<div class="app">
+<div class="app bg-red-500">
 	<main>
 		<slot />
 	</main>
